@@ -13,3 +13,12 @@ This package includes:
 - `MessagingScopeProvider` to include at the top of the widget tree.
 - `MessagingScope` accessible through context with `MessagingScope.of(context)` that allows to access your `messaging` instance APIs.
 - `MessagingSubscriberBuilder` that allows to rebuild your widget every time a message you subscribed is published. 
+
+## Installation
+In your `pubspec.yaml`
+
+```yaml
+dependencies:
+  messaging: <latest_version>
+  messaging_flutter: <latest_version>
+```
