@@ -1,6 +1,6 @@
 name: messaging_flutter
 description: Flutter package that allows you to provide messaging instance in the tree.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/mcssym/messaging_flutter
 
 environment:
