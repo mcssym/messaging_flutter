@@ -6,7 +6,3 @@
 ### Features
 
 * First version ([ee9a96a](https://github.com/mcssym/messaging_flutter/commit/ee9a96aecdc385351c4bfbdcc470e36dbdb134a7))
-
-## 0.0.1
-
-* TODO: Describe initial release.
