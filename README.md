@@ -6,6 +6,7 @@
 <a href="https://discord.gg/zN6FB8wMR6">              
  <img src="https://img.shields.io/discord/1036665678779920474.svg?color=7289da&label=Discord&logo=discord&style=flat-square" alt="Discord Badge"></a>              
 </p>  
+
 A flutter that allows to provide the messaging instance of package [messaging](https://pub.dev/packages/messaging) in your application and access its public APIs.
 
 This package includes:
